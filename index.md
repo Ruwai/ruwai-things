@@ -8,4 +8,4 @@ Hello, my name is Chris Louie and this is a collection of the 'Data Science'
 
 ### Contact
 
-[Email] chrislouie@protonmail.com
+- [Email](chrislouie@protonmail.com)

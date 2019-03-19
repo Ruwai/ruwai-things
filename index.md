@@ -1,6 +1,6 @@
 ### Intro
 
-Hello, my name is Chris Louie and this is a collection of the 'Data Science'
+Hello, my name is Chris Louie and this is a collection of my Data Science projects. 
 
 ### Data Exploration Projects
 
